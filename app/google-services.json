@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "535654787222",
+    "firebase_url": "https://ipfirebaseproject-77398.firebaseio.com",
+    "project_id": "ipfirebaseproject-77398",
+    "storage_bucket": "ipfirebaseproject-77398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535654787222:android:fa571528a6e12ec4",
+        "android_client_info": {
+          "package_name": "com.mukesh.ip40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535654787222-qv77q69bk4tttc521pqgmen3o8oksj0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_Ld7lybeQiurNDqqjK1T149CMa16fW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
